@@ -1,6 +1,5 @@
 # kintsugi
-Give your old Nintendo Switch a second chance with this consolizer kit
-Don’t rush to recycle your old (non-OLED) Nintendo Switch – instead give it a second chance as a home console even if it’s screen is damaged and build-in controls no longer work.
+Give your old Nintendo Switch a second chance with this consolizer kit.
 
 ![IMG_0653](https://github.com/user-attachments/assets/82fea9e5-15eb-4b2d-83d4-98aeefe136bd)
 
