@@ -49,6 +49,7 @@ How-to (main steps):
 4. Align and connect the flex cables (including the ones from the Switch/Dock).
 5. Solder extensions to the SD card and game card modules (be careful since they are super easy to break).
 
-For educational / entertainment purposes only, build at your own risk!
+**For educational / entertainment purposes only, build at your own risk!
+**
 
 First demo: Tokyo Game Show 2024, Booth 07-N04 (Tassei Denki). 
